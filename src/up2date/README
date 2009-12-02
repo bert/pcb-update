@@ -1,0 +1,10 @@
+This a specification for the up2date utility for pcb.
+
+The basic idea is that this utility checks wether there is a newer version
+available on either the official pcb git repository at gpleda.org, or if there
+is a newer version of the tarball available at pcb.sourceforge.net.
+
+Therefor up2date has to know which is the current installed version
+(either tarball or git commit).
+
+<More to be added here>
